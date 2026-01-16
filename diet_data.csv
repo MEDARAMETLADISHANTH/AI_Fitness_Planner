@@ -1,0 +1,9 @@
+food,calories,protein,carbs,fat,diet_type,cost
+Poha,250,6,45,5,veg,low
+Dal Rice,400,14,60,8,veg,low
+Chapati Sabzi,300,8,40,6,veg,low
+Paneer Curry,450,22,10,30,veg,medium
+Egg Omelette,280,18,2,20,non-veg,low
+Chicken Curry,500,35,5,30,non-veg,medium
+Fruit Salad,200,3,35,2,veg,low
+Curd Rice,350,10,50,8,veg,low

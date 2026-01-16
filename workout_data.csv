@@ -1,0 +1,40 @@
+exercise,goal,level,equipment,duration_min,calories_burned,video_url
+Wall Push-ups,muscle_gain,beginner,none,10,60,https://www.youtube.com/watch?v=YB0egDzsu18
+Bodyweight Squats,muscle_gain,beginner,none,15,100,https://www.youtube.com/watch?v=aclHkVaku9U
+Knee Push-ups,muscle_gain,beginner,none,12,80,https://www.youtube.com/watch?v=IODxDxX7oi4
+Plank Hold,muscle_gain,beginner,none,10,70,https://www.youtube.com/watch?v=pSHjTRCQxIw
+
+Push-ups,muscle_gain,intermediate,none,15,110,https://www.youtube.com/watch?v=IODxDxX7oi4
+Bodyweight Lunges,muscle_gain,intermediate,none,15,120,https://www.youtube.com/watch?v=QOVaHwm-Q6U
+Resistance Band Rows,muscle_gain,intermediate,none,15,100,https://www.youtube.com/watch?v=GZbfZ033f74
+Plank with Shoulder Taps,muscle_gain,intermediate,none,12,90,https://www.youtube.com/watch?v=9r5K9J9vF8Q
+
+Plyometric Push-ups,muscle_gain,advanced,none,15,140,https://www.youtube.com/watch?v=H9qX9z2pC5k
+Jump Squats,muscle_gain,advanced,none,15,150,https://www.youtube.com/watch?v=U4s4mEQ5VqU
+Single-leg Lunges,muscle_gain,advanced,none,15,140,https://www.youtube.com/watch?v=2C-uNgKwPLE
+Plank to Push-up,muscle_gain,advanced,none,15,130,https://www.youtube.com/watch?v=U7fP6Xv6KPE
+
+Dumbbell Curls,muscle_gain,beginner,gym,12,80,https://www.youtube.com/watch?v=ykJmrZ5v0Oo
+Machine Chest Press,muscle_gain,beginner,gym,15,110,https://www.youtube.com/watch?v=sqNwDkUU_Ps
+Leg Press,muscle_gain,beginner,gym,15,130,https://www.youtube.com/watch?v=IZxyjW7MPJQ
+
+Bench Press,muscle_gain,intermediate,gym,15,140,https://www.youtube.com/watch?v=rT7DgCr-3pg
+Lat Pulldown,muscle_gain,intermediate,gym,15,130,https://www.youtube.com/watch?v=CAwf7n6Luuc
+Dumbbell Shoulder Press,muscle_gain,intermediate,gym,15,120,https://www.youtube.com/watch?v=B-aVuyhvLHU
+
+Deadlift,muscle_gain,advanced,gym,15,180,https://www.youtube.com/watch?v=op9kVnSso6Q
+Barbell Squats,muscle_gain,advanced,gym,20,200,https://www.youtube.com/watch?v=Dy28eq2PjcM
+Pull-ups,muscle_gain,advanced,gym,15,160,https://www.youtube.com/watch?v=eGo4IYlbE5g
+
+Jumping Jacks,weight_loss,beginner,none,15,140,https://www.youtube.com/watch?v=c4DAnQ6DtF8
+Brisk Walking,weight_loss,beginner,none,30,150,https://www.youtube.com/watch?v=njeZ29umqVE
+
+High Knees,weight_loss,intermediate,none,15,170,https://www.youtube.com/watch?v=OAJ_J3EZkdY
+Mountain Climbers,weight_loss,intermediate,none,15,180,https://www.youtube.com/watch?v=nmwgirgXLYM
+
+Burpees,weight_loss,advanced,none,15,200,https://www.youtube.com/watch?v=TU8QYVW0gDU
+Sprint Intervals,weight_loss,advanced,gym,20,250,https://www.youtube.com/watch?v=ml6cT4AZdqI
+
+Yoga (Full Body),maintenance,beginner,none,30,120,https://www.youtube.com/watch?v=v7AYKMP6rOE
+Stretching & Mobility,maintenance,intermediate,none,25,90,https://www.youtube.com/watch?v=R0mMyV5OtcM
+Power Yoga Flow,maintenance,advanced,none,40,180,https://www.youtube.com/watch?v=4pKly2JojMw
